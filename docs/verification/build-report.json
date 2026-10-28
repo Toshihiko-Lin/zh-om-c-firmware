@@ -1,0 +1,18 @@
+{
+  "source_sha256": "e30c019b3179d12c16abaa7ec03a4d2b75e8d647bf5f15ab9ca043098cb1ae43",
+  "output_sha256": "b14f34d7b65e250b453bf9adb507dbc2c7d127c8ebcdc2e7f3465a1d3f8ae4e1",
+  "modified_modules": [
+    "app",
+    "i18n",
+    "sound_panel"
+  ],
+  "translation_occurrences": {
+    "app": 144,
+    "i18n": 124,
+    "sound_panel": 70
+  },
+  "unchanged_archive_entries": 407,
+  "unchanged_python_modules": 807,
+  "firmware_profiles_and_assets_unchanged": true,
+  "output": "db-firmware-0.3.1-zh-CN.exe"
+}

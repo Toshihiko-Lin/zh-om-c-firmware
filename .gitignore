@@ -1,0 +1,4 @@
+upstream-releases/
+dist/
+__pycache__/
+*.pyc

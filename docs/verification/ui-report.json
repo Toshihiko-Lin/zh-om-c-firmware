@@ -1,0 +1,125 @@
+{
+  "status": "PASS",
+  "profile_count": 23,
+  "profiles": [
+    {
+      "body": "OM-1",
+      "profile": "om1-1.9",
+      "feature_count": 5
+    },
+    {
+      "body": "OM-1 Mark II",
+      "profile": "om1ii-1.3",
+      "feature_count": 4
+    },
+    {
+      "body": "OM-3",
+      "profile": "om3-1.1",
+      "feature_count": 4
+    },
+    {
+      "body": "OM-5",
+      "profile": "om5-1.2",
+      "feature_count": 4
+    },
+    {
+      "body": "OM-5 Mark II",
+      "profile": "om5ii-1.1",
+      "feature_count": 1
+    },
+    {
+      "body": "E-M1X",
+      "profile": "em1x-2.4",
+      "feature_count": 3
+    },
+    {
+      "body": "E-M1 Mark III",
+      "profile": "em1iii-1.6",
+      "feature_count": 2
+    },
+    {
+      "body": "E-M5 Mark III",
+      "profile": "em5iii-1.7",
+      "feature_count": 1
+    },
+    {
+      "body": "E-M10 Mark IV",
+      "profile": "em10iv-1.1",
+      "feature_count": 1
+    },
+    {
+      "body": "E-P7",
+      "profile": "ep7-1.1",
+      "feature_count": 2
+    },
+    {
+      "body": "E-PL9",
+      "profile": "epl9-1.1",
+      "feature_count": 1
+    },
+    {
+      "body": "E-PL5",
+      "profile": "epl5-1.6",
+      "feature_count": 1
+    },
+    {
+      "body": "E-P5",
+      "profile": "ep5-1.8",
+      "feature_count": 1
+    },
+    {
+      "body": "E-M1 Mark I",
+      "profile": "em1-4.6",
+      "feature_count": 1
+    },
+    {
+      "body": "E-PL6",
+      "profile": "epl6-1.4",
+      "feature_count": 1
+    },
+    {
+      "body": "E-M10 Mark I",
+      "profile": "em10-1.4",
+      "feature_count": 1
+    },
+    {
+      "body": "E-PL7",
+      "profile": "epl7-1.4",
+      "feature_count": 1
+    },
+    {
+      "body": "E-M5 Mark II",
+      "profile": "em5ii-4.1",
+      "feature_count": 1
+    },
+    {
+      "body": "E-M10 Mark II",
+      "profile": "em10ii-1.4",
+      "feature_count": 1
+    },
+    {
+      "body": "PEN-F",
+      "profile": "penf-3.1",
+      "feature_count": 1
+    },
+    {
+      "body": "E-PL8",
+      "profile": "epl8-1.1",
+      "feature_count": 1
+    },
+    {
+      "body": "E-M1 Mark II",
+      "profile": "em1ii-3.7",
+      "feature_count": 1
+    },
+    {
+      "body": "E-M10 Mark III",
+      "profile": "em10iii-1.2",
+      "feature_count": 1
+    }
+  ],
+  "language_switch": "PASS",
+  "korean_ui_residual_count": 0,
+  "confirmation_default_and_escape": "No",
+  "scope": "Offline desktop UI only; no firmware generation, SD-card writes or camera flashing."
+}
